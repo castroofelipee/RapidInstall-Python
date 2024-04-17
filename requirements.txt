@@ -1,0 +1,6 @@
+tk
+customtkinter
+psutil
+pytest
+fonttools
+pillow
